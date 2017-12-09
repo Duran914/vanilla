@@ -436,6 +436,7 @@ placement(only for root user) */
    border: 2px solid #00796B;
    padding: 5px;
    border-radius: 5px;
+   box-shadow: 0px 0px 10px #9E9E9E; 
  }
 
  .MessageList .Item .Discussion{
