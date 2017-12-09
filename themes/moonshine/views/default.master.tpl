@@ -18,10 +18,10 @@
             onclick="dropdownMenu()">&#9776;</a>
 
             <ul class="SiteMenu" id="DropDownMenuClick">
-            <hr> <li>{home_link}</li><hr>
-                <li>{inbox_link}</li><hr>
-                <li>{profile_link}</li><hr>
-               <li>{signinout_link}</li><hr>
+                <li>{home_link}</li>
+                <li>{inbox_link}</li>
+                <li>{profile_link}</li>
+               <li>{signinout_link}</li>
             </ul>
         </div>
     </div>
